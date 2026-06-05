@@ -37,7 +37,7 @@ The dataset includes customer-related information such as:
 * Payment Method
 * Churn Status
 
-🔍 Data Analysis Process
+## Data Analysis Process
 
 **Data Cleaning**
 
